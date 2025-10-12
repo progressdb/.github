@@ -7,5 +7,7 @@ ProgressDB is optimized for the patterns of chat systems: append-only timelines,
 
 
 ### Links
-- [📚 Docs ↗](https://progressdb.dev/docs)
-- [🌐 Website ↗](https://progressdb.dev)
+
+[📚 Docs ↗](https://progressdb.dev/docs)
+
+[🌐 Website ↗](https://progressdb.dev)
