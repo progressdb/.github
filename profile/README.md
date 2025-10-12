@@ -6,7 +6,7 @@ ProgressDB is a chat-native database built for storing and serving conversationa
 ProgressDB is optimized for the patterns of chat systems: append-only timelines, fast ordered reads, message versioning, and field-level encryption for sensitive content.
 
 
-### Links
+### Links:
 
 [📚 Docs ↗](https://progressdb.dev/docs)
 
